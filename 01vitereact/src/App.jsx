@@ -1,6 +1,11 @@
+import LMAO from "./LMAO"
+
 function App() {
   return (
-    <h1>Hello Bro This is vite</h1>
+    <>
+      <LMAO />
+      <h1>Lmaaaaaaaaaaaaaoooooooooooooooooooooo</h1> 
+    </>
   )
 }
 export default App
