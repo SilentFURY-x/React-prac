@@ -1,10 +1,12 @@
 import LMAO from "./LMAO"
 
+const username = "ARJUN"
+
 function App() {
   return (
     <>
       <LMAO />
-      <h1>Lmaaaaaaaaaaaaaoooooooooooooooooooooo</h1> 
+      <h1>Hello {username}</h1> 
     </>
   )
 }
